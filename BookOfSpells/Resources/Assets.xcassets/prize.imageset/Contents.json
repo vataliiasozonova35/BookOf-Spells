@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Lovepik_com-401080655-2-5d-618-sci-tech-products-decorative-element-map-2.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
